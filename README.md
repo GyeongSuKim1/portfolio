@@ -42,5 +42,3 @@
 >>> #### BackEnd : Python 3.8.6 | Django 4.0.5 
 >>>
 >>> #### FrontEnd : HTML5/CSS3 | JavaScript | JQuery
->>>
->>> #### Deploy : Docker | AWS
