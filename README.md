@@ -19,7 +19,7 @@
 >>>
 >>> #### FrontEnd : HTML5/CSS3 | JavaScript | JQuery
 >>>
->>> #### Deploy : Docker | AWS
+>>> #### Deploy : Docker | AMAZONAWS
 
 <br>
 
@@ -27,11 +27,11 @@
 > ### 머신러닝을 활용한 유화 제작 서비스
 >> 개발 기간: 22.06.28 ~ 22.07.06
 >> ### 기술 스택 :
->>> #### BackEnd : Python 3.9.10 | Django 4.0.6 | DRF 3.13.1 
+>>> #### BackEnd : Python 3.8.6 | Django 4.0.6 | DRF 3.13.1 
 >>>
 >>> #### FrontEnd : HTML5/CSS3 | JavaScript | JQuery
 >>>
->>> #### Deploy : Docker | AWS
+>>> #### Deploy : AMAZONAWS
 
 <br>
 
@@ -39,7 +39,7 @@
 > ### 추천 시스템을 이용한 영화 추천 서비스
 > 개발 기간: 22.06.02 ~ 22.06.14
 >> ### 기술 스택 :
->>> #### BackEnd : Python 3.9.10 | Django 4.0.6 | DRF 3.13.1 
+>>> #### BackEnd : Python 3.8.6 | Django 4.0.5 
 >>>
 >>> #### FrontEnd : HTML5/CSS3 | JavaScript | JQuery
 >>>
