@@ -5,6 +5,8 @@
 
 - 클린코드에 관심이 있어 조금은 시간이 걸리더라도 더 나은 코드를 고민합니다.
 
+- 공통의 목표 달성을 최우선하며 적극적으로 협업에 임합니다.
+
 ## 📞 Contact
 - email : <a href="mailto:rla047232@gmail.com">rla047232@gmail.com</a>
 - tistory : [gyeongssu.tistory](https://gyeongssu.tistory.com)
@@ -13,7 +15,8 @@
 ## ⚔ Project
 ## [i-Park](https://github.com/GyeongSuKim1/iPark_django_backend)
 > ### 서울시 공공데이터를 활용한 공원 검색 서비스 
-> 개발 기간: 22.07.07 ~ 22.08.16
+> - 개발 기간: 22.07.07 ~ 22.08.16
+> - 참여인원 : 4명
 >> ### 기술 스택 :
 >>> #### BackEnd : Python 3.9.10 | Django 4.0.6 | DRF 3.13.1 
 >>>
@@ -25,7 +28,8 @@
 
 ## [The season of N.11](https://github.com/GyeongSuKim1/The-season-of-N.11_backend)
 > ### 머신러닝을 활용한 유화 제작 서비스
->> 개발 기간: 22.06.28 ~ 22.07.06
+> - 개발 기간: 22.06.28 ~ 22.07.06
+> - 참여인원 : 4명
 >> ### 기술 스택 :
 >>> #### BackEnd : Python 3.8.6 | Django 4.0.6 | DRF 3.13.1 
 >>>
@@ -37,7 +41,8 @@
 
 ## [Watch-a-movie-N.11](https://github.com/GyeongSuKim1/Watch-a-movie-N.11-Django)
 > ### 추천 시스템을 이용한 영화 추천 서비스
-> 개발 기간: 22.06.02 ~ 22.06.14
+> - 개발 기간: 22.06.02 ~ 22.06.14
+> - 참여인원 : 4명
 >> ### 기술 스택 :
 >>> #### BackEnd : Python 3.8.6 | Django 4.0.5 
 >>>
